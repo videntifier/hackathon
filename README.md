@@ -112,6 +112,9 @@ If you want the results in JSON format, just include the --json parameter:
 	]
 }
 ```
+###Troubleshooting
+
+If you are on linux and cannot connect, try installing libssl-dev
 
 ###Notes
 
