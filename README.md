@@ -14,11 +14,11 @@ Videntify comes both in Windows and Linux versions (tested on debian based distr
 
 Before using Videntify, you need to edit your hosts file. 
 
-If you are on Windows, this file is located in
+If you are on Windows, right click on notepad and select "Run as Administrator", then open the file
 
     C:\Windows\System32\drivers\etc\hosts
 
-If you are on Linux this file is located in 
+If you are on Linux this file is located in
 
     /etc/hosts
 
@@ -26,7 +26,7 @@ Add the following to the end of the file:
     
     130.208.242.26 hnifur.videntifier.com
 
-To be able to call the Videntify binary from anywhere, make sure the directory it’s in is included in your PATH.
+If you want to be able to call the Videntify binary from anywhere, make sure the directory it’s in is included in your PATH.
 
 ###Usage
 
