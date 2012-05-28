@@ -101,15 +101,16 @@ If you want the results in JSON format, just include the --json parameter:
     $ videntify south.park.s15e07.720p.hdtv.x264-immerse.mkv --json
 ```
 {
-"matches" : [
+"matches" : 
+	[
 		{
 		"episode" : "S05E03",
 		"tvshow" : "South Park",
 		"type" : "Tv",
 		"url" : "http://thetvdb.com/?tab=series&id=75897&lid=7"
 		}
-							]
-	}
+	]
+}
 ```
 
 ###Notes
