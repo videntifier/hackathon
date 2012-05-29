@@ -114,7 +114,11 @@ If you want the results in JSON format, just include the --json parameter:
 ```
 ###Troubleshooting
 
-If you are on linux and cannot connect, try installing libssl-dev
+If you are on linux and cannot connect, try installing the following libraries:
+libssl libssl-dev openssl 
+libpng3-dev libpng libjpeg8-dev libjpeg-dev libjpeg62
+libfontconfig libfontconfig1
+
 
 ###Notes
 
