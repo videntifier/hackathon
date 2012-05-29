@@ -128,9 +128,10 @@ If you are interested in viewing what movies and shows are in the database, you 
 
   https://files.videntifier.com/hackathon2012/tvshows.txt
 
-For more about how videntify and our company visit:
+For more about how videntify works visit:
 
 http://www.videntifier.com/technology
+
 
 We’re looking forward to seeing some cool, creative uses of our API.
 
