@@ -6,11 +6,11 @@ Have you ever needed an automatic way to identify your videos, or sort through y
 
 ###Download & Installation
 
-Videntify comes both in Windows and Linux versions (tested on debian based distros):
+Videntify comes both in Windows and 64-bit Linux versions (tested on debian based distros):
 
   https://files.videntifier.com/hackathon2012/Videntify-win32.zip  (Windows)
 
-  https://files.videntifier.com/hackathon2012/Videntify-linux.zip  (Linux)
+  https://files.videntifier.com/hackathon2012/Videntify-linux.zip  (Linux 64-bit)
 
 Before using Videntify, you need to edit your hosts file. 
 
